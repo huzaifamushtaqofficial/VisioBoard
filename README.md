@@ -84,7 +84,7 @@ If you find VisioBoard helpful, consider giving it a **star ⭐ on GitHub** and 
 For any inquiries, suggestions, or support, feel free to reach out:
 
 - **GitHub Issues:** [Submit a new issue](https://github.com/huzaifamushtaqofficial/VisioBoard/issues)
-- **Email:** support@visioboard.com
+- **Email:** huzaifamushtaq.website@gmailcom
 - **Follow us on Twitter:** [@VisioBoard](http://x.com/Huzaiifamushtaq)
 
 Thank you for using **VisioBoard**! 🚀
