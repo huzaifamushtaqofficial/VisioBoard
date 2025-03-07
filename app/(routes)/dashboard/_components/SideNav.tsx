@@ -91,7 +91,8 @@ function SideNav({setActiveTeamInfo}:any) { // Remove 'user' from props
     console.log(fileName)
     createFile({
       fileName:fileName,
-      teamId:activeTeam?._id,
+      teamId:activeTeam?._id
+      ,
       createdBy:user?.email,
       archive:false,
       document:'',
