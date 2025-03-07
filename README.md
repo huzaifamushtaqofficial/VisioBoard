@@ -12,7 +12,7 @@ Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a rea
 3. **Start a new file** – choose a document or a canvas.  
 4. **Unleash your creativity** with powerful visualization tools.  
 
-🔗 **Try VisioBoard now:** 👉 [VisioBoard Live](https://visioboard.huzaifamushtaq.website/pr)  
+🔗 **Try VisioBoard now:** 👉 [VisioBoard Live](https://visioboard.huzaifamushtaq.website/)  
 
 📌 **VisioBoard – Where Ideas Take Shape!**  
 
