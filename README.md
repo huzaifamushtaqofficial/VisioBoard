@@ -97,7 +97,7 @@ For any inquiries, suggestions, or support, feel free to reach out:
 
 - **GitHub Issues:** [Submit a new issue](https://github.com/huzaifamushtaqofficial/VisioBoard/issues)
 - **Email:** huzaifamushtaq.website@gmailcom
-- **Follow us on Twitter:** [@VisioBoard](http://x.com/Huzaiifamushtaq)
+- **Follow us on Linkedin:** [@VisioBoard](https://www.linkedin.com/in/huzaifamushtaqofficial/)
 
 Thank you for using **VisioBoard**! 🚀
 
