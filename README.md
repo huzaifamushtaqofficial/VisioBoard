@@ -1,7 +1,8 @@
 # VisioBoard
+
 ![Project Banner](https://raw.githubusercontent.com/huzaifamushtaqofficial/VisioBoard/main/public/visioboard-baner.jpg)
 
-VisioBoard is a **modern productivity application** designed to help users focus on one task at a time. Built with **Next.js, React, TypeScript, and Tailwind CSS**, it offers a seamless and efficient task management experience.
+VisioBoard is a **modern productivity application** designed to help users focus on one task at a time. Built with **Next.js, React, TypeScript, and Tailwind CSS**, it provides a seamless and efficient task management experience.
 
 ## 🚀 Features
 
@@ -10,6 +11,9 @@ VisioBoard is a **modern productivity application** designed to help users focus
 - 📅 **Reminders & Notifications** - Never miss important tasks
 - 📊 **Progress Tracking** - Monitor productivity with analytics
 - 🔄 **Sync Across Devices** - Access tasks from anywhere
+- 🔐 **Secure Authentication** - Powered by **NextAuth** or **Firebase Auth**
+- ⚡ **Real-time Updates** - Implemented with **Convex**
+- ☁️ **Cloud Storage** - Managed with **Kinde**
 
 ## 🛠️ Tech Stack
 
@@ -17,6 +21,8 @@ VisioBoard is a **modern productivity application** designed to help users focus
 - **State Management:** Zustand / Redux
 - **Database:** MongoDB / PostgreSQL
 - **Authentication:** NextAuth / Firebase Auth
+- **Real-time Backend:** Convex
+- **Cloud Storage & Identity Management:** Kinde
 - **Deployment:** Vercel / AWS
 
 ## 📦 Installation
