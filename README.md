@@ -22,13 +22,12 @@ Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a rea
 
 | Category            | Technologies Used                        |
 |--------------------|--------------------------------------|
-| **Frontend**      | Next.js, React, TypeScript, Tailwind CSS |
-| **State Management** | Zustand / Redux                       |
+| **Frontend**      | Next.js, React, TypeScript, Tailwind CSS|
 | **Database**      | Convex (Real-time NoSQL Database)       |
 | **Authentication** | Kinde (Secure Identity & Access)       |
 | **Real-time Backend** | Convex                              |
-| **Cloud Services** | Kinde                                 |
-| **Deployment**    | Vercel / AWS                           |
+| **Cloud Services** | Kinde                                  |
+| **Deployment**    | Vercel                                  |
 | **Diagramming Tool** | Custom Infinite Canvas               |
 
 ## 📦 Installation
