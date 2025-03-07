@@ -1,6 +1,6 @@
 # VisioBoard
 
-![VisioBoard](https://www.google.com/imgres?q=huzaifa%20mushtaq&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D61553179721269&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fhuzaifamushtaqofficial&docid=kJ3x25a72rIsTM&tbnid=dfPz8NEKg6HVqM&vet=12ahUKEwiK5-6IhveLAxV6VUEAHU3hHmoQM3oECBYQAA..i&w=1960&h=2048&hcb=2&ved=2ahUKEwiK5-6IhveLAxV6VUEAHU3hHmoQM3oECBYQAA)
+![VisioBoard]([https://www.google.com/imgres?q=huzaifa%20mushtaq&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D61553179721269&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fhuzaifamushtaqofficial&docid=kJ3x25a72rIsTM&tbnid=dfPz8NEKg6HVqM&vet=12ahUKEwiK5-6IhveLAxV6VUEAHU3hHmoQM3oECBYQAA..i&w=1960&h=2048&hcb=2&ved=2ahUKEwiK5-6IhveLAxV6VUEAHU3hHmoQM3oECBYQAA](https://github.com/huzaifamushtaqofficial/VisioBoard/blob/main/public/visioboard-baner.jpg))
 
 VisioBoard is a **modern productivity application** designed to help users focus on one task at a time. Built with **Next.js, React, TypeScript, and Tailwind CSS**, it offers a seamless and efficient task management experience.
 
