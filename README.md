@@ -6,6 +6,15 @@ VisioBoard is an intuitive and modern canvas-based productivity application desi
 
 Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a real-time collaborative environment, where users can create mind maps, sketch workflows, and design complex processes effortlessly. Whether you're a student, developer, or business professional, VisioBoard enhances your thinking process with a structured yet flexible digital workspace.
 
+
+##Get Started
+1.Log in with your Google account.
+2.Create a team and start collaborating.
+3.Start a new file – choose a document or a canvas.
+4.Unleash your creativity with powerful visualization tools.
+🔗 **Try VisioBoard now:** 👉 [VisioBoard Live](https://visioboard.huzaifamushtaq.website/pr)  
+📌 Try VisioBoard today – where ideas take shape!
+
 ## 🚀 Features
 
 - 📌 **Task Management** - Organize and prioritize tasks effectively.
