@@ -107,7 +107,9 @@ function SideNav({setActiveTeamInfo}:any) { // Remove 'user' from props
     })
   }
    const getFiles=async()=>{
-const result=await convex.query(api.files.getFiles,{teamId:activeTeam?._id});
+    const result = await convex.query(api.files.getFiles, { teamId: activeTeam?._id as string });
+
+
 console.log(result);
 setFileList_(result);
 setTotalFiles(result?.length)
