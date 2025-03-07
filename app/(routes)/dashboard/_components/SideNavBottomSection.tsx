@@ -1,7 +1,5 @@
-
-
 import { Button } from '@/components/ui/button'
-import { Archive, Flag, Github } from 'lucide-react'
+import { Archive, Github } from 'lucide-react'
 import React, { useState } from 'react'
 import {
   Dialog,
@@ -21,32 +19,29 @@ function SideNavBottomSection({onFileCreate,totalFiles}:any ){
   const menuList=[
     {
       id:1,
-      name:'Getting Started',
-      icon:Flag,
-      path:''
+      name:'Github',
+      icon:Github,
+      path:'',
+      pro: true
     },
     {
       id:2,
-      name:'Github',
-      icon:Github,
-      path:''
-    },
-    {
-      id:3,
       name:'Archive',
       icon:Archive,
-      path:''
+      path:'',
+      pro: true
     }
   ]
   const [fileInput,setFileInput]=useState('');
   return (
     <div>
       {menuList.map((menu,index)=>(
-     
         <h2 key={index} className='flex gap-2 p-1 px-2 text-[14px] 
-        hover:bg-gray-300 rounded-md cursor-pointer w-[200px]'>
-             <menu.icon className='h-5 w-5'/>
-          {menu.name}</h2>
+        hover:bg-gray-300 rounded-md cursor-pointer w-[200px] relative'>
+          <menu.icon className='h-5 w-5'/>
+          {menu.name} 
+          {menu.pro && <span className='absolute top-1 right-2 px-1 py-0.5 text-[8px] text-white bg-primary rounded'>Pro</span>}
+        </h2>
       ))}
 
        {/* Add New File Button  */}
@@ -78,9 +73,6 @@ function SideNavBottomSection({onFileCreate,totalFiles}:any ){
   <PricingDialog/>}
 </Dialog>
 
-
-   
-
      {/* progress bar */}
      <div className='h-4 w-[230px] bg-gray-200 rounded-full mt-5'>
      <div className={`h-4  bg-primary rounded-full`}
@@ -88,9 +80,7 @@ function SideNavBottomSection({onFileCreate,totalFiles}:any ){
          >
           </div>
       </div>
-<h2 className='text-[12px] mt-3'><strong>{totalFiles}</strong> out of <strong>{constant.MAX_FREE_FILE}</strong> files used
-
-</h2>
+<h2 className='text-[12px] mt-3'><strong>{totalFiles}</strong> out of <strong>{constant.MAX_FREE_FILE}</strong> files used</h2>
 <h2 className='text-[12px] mt-1'>Upgrade your plan for unlimited access.</h2>
     </div>
   )

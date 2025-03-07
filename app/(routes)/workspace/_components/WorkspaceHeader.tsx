@@ -11,7 +11,6 @@ function WorkspaceHeader({onSave}:any) {
           alt='logo'
           height={100}
           width={100} />
-        <h2>File Name</h2>
       </div>
       <div className='flex items-center gap-4'>
         <Button className='h-8 text-[12px]

@@ -1,7 +1,7 @@
 import { FileListContext } from '@/app/_context/FilesListContext'
 import { useKindeBrowserClient } from '@kinde-oss/kinde-auth-nextjs';
-import { useConvex } from 'convex/react'
-import { Archive, MoreHorizontal } from 'lucide-react';
+import { useConvex, useMutation } from 'convex/react'
+import { Archive, Files, MoreHorizontal } from 'lucide-react';
 import moment from 'moment';
 import Image from 'next/image';
 
@@ -15,6 +15,8 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import { useRouter } from 'next/navigation';
+import { api } from '@/convex/_generated/api';
+import { Id } from '@/convex/_generated/dataModel';
 
 
 
@@ -37,6 +39,12 @@ const router=useRouter();
    fileList_&&setFileList(fileList_);
    console.log(fileList_);
   },[fileList_])
+  const toggleArchive = useMutation(api.files.toggleArchive);
+
+  const handleArchive = async (fileId: Id<"files">, archive: boolean) => {
+    await toggleArchive({ _id: fileId, archive });
+    setFileList((prevFiles: FILE[]) => prevFiles.filter(file => file._id !== fileId));
+  };
   return (
     <div className='lg:w-[900px] lg:ml-[300px] mt-9 md:ml-75'>
       <div className="max-w-full overflow-hidden">
@@ -69,7 +77,17 @@ const router=useRouter();
         <DropdownMenu>
   <DropdownMenuTrigger><MoreHorizontal/></DropdownMenuTrigger>
   <DropdownMenuContent>
-    <DropdownMenuItem className='gap-3'> <Archive className='h-4 w-4'/>Archive </DropdownMenuItem>
+  <DropdownMenuItem 
+  onClick={(e) => {
+    e.stopPropagation();  // Stop row click event
+    handleArchive(file._id as Id<"files">, true);
+  }} 
+  className="gap-3"
+>
+  <Archive className="h-4 w-4" /> Delete
+</DropdownMenuItem>
+
+
    
   </DropdownMenuContent>
 </DropdownMenu>

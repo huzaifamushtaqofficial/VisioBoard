@@ -247,7 +247,7 @@ setTotalFiles(result?.length)
     All Files
     </Button>
 
-  <div className="mt-[180px] ml-4">
+  <div className="mt-[230px] ml-4">
   <SideNavBottomSection  
   totalFiles={totalFiles}
   onFileCreate={onFileCreate} setActiveTeamInfo={setActiveTeamInfo} />
