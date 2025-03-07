@@ -47,7 +47,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/VisioBoard.git
+git clone https://github.com/huzaifamushtaqofficial/VisioBoard.git
 cd VisioBoard
 
 # Install dependencies
