@@ -23,7 +23,6 @@ export default function Home() {
 <Hero/>
 <UseCases/>
 <Layout/>
-<Pricing/>
 <Footer/>
     </div>
   );
