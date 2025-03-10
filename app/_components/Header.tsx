@@ -28,7 +28,7 @@ function Header() {
             {[
               { name: "Layout", href: "#layout" },
               { name: "Reviews", href: "#Reviews" },
-              { name: "Pricing", href: "#pricing" },
+           //   { name: "Pricing", href: "#pricing" },
             ].map((item, index) => (
               <li key={index}>
                 <a
@@ -80,7 +80,7 @@ function Header() {
             {[
               { name: "Layout", href: "#layout" },
               { name: "Reviews", href: "#Reviews" },
-              { name: "Pricing", href: "#pricing" },
+            //  { name: "Pricing", href: "#pricing" },
             ].map((item, index) => (
               <li key={index}>
                 <a
