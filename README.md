@@ -6,9 +6,10 @@
 Check out the demo of this project:  
 
 [![Watch the video](https://img.youtube.com/vi/rxuUEJkCXes/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)  
-![Next JS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Next JS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
 
 VisioBoard is an intuitive and modern canvas-based productivity application designed to help individuals and teams visualize their ideas, create flowcharts, and manage tasks seamlessly. With an easy-to-use drag-and-drop interface, it enables users to brainstorm, plan, and execute projects in an interactive way.
 
