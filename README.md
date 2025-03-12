@@ -1,6 +1,9 @@
 # VisioBoard – A Smart Canvas for Ideas & Productivity
 
-![Project Banner](https://raw.githubusercontent.com/huzaifamushtaqofficial/VisioBoard/main/public/visioboard-baner.jpg)
+#🎬Watch this video
+Check out the demo of this project:  
+[![Watch the video](https://img.youtube.com/vi/rxuUEJkCXes/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)  
+
 
 VisioBoard is an intuitive and modern canvas-based productivity application designed to help individuals and teams visualize their ideas, create flowcharts, and manage tasks seamlessly. With an easy-to-use drag-and-drop interface, it enables users to brainstorm, plan, and execute projects in an interactive way.
 
@@ -11,11 +14,6 @@ Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a rea
 2. **Create a team** and start collaborating.  
 3. **Start a new file** – choose a document or a canvas.  
 4. **Unleash your creativity** with powerful visualization tools.
-#🎬Watch this video
-Check out the demo of this project:  
-[![Watch the video](https://img.youtube.com/vi/rxuUEJkCXes/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)  
-
-
 🔗 **Try VisioBoard now:** 👉 [VisioBoard Live](https://visioboard.huzaifamushtaq.website/)  
 
 📌 **VisioBoard – Where Ideas Take Shape!**  
