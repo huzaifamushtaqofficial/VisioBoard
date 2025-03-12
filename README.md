@@ -23,10 +23,6 @@ Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a rea
 🔗 **Try VisioBoard now:** 👉 [![VisioBoard](https://img.shields.io/badge/Try%20VisioBoard-6A0DAD?style=flat&logo=visualstudiocode&logoColor=white)](https://visioboard.huzaifamushtaq.website/)
 
 
-
-📌 **VisioBoard – Where Ideas Take Shape!**  
-
-
 ## 🚀 Features
 
 - 📌 **Task Management** - Organize and prioritize tasks effectively.
@@ -105,9 +101,20 @@ If you find VisioBoard helpful, consider giving it a **star ⭐ on GitHub** and 
 
 For any inquiries, suggestions, or support, feel free to reach out:
 
-- **GitHub Issues:** [Submit a new issue](https://github.com/huzaifamushtaqofficial/VisioBoard/issues)
-- **Email:** huzaifamushtaq.website@gmailcom
-- **Follow us on Linkedin:** [@VisioBoard](https://www.linkedin.com/in/huzaifamushtaqofficial/)
+
+- **GitHub Issues:** [![Submit Issue](https://img.shields.io/badge/Submit%20Issue-6A0DAD?style=flat&logo=github&logoColor=white)](https://github.com/huzaifamushtaqofficial/VisioBoard/issues)
+
+
+- **Email:** huzaifamushtaq.website@gmail.com
+  
+<div style="display: flex; align-items: center; gap: 8px;">
+    <strong>Follow us on LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/huzaifamushtaqofficial/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20">
+    </a>
+</div>
+
+
 
 Thank you for using **VisioBoard**! 🚀
 
