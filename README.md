@@ -1,7 +1,9 @@
 # VisioBoard – A Smart Canvas for Ideas & Productivity
 
-#🎬Watch this video
+# 🎬 Watch This Video  
+
 Check out the demo of this project:  
+
 [![Watch the video](https://img.youtube.com/vi/rxuUEJkCXes/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)  
 
 
