@@ -1,22 +1,28 @@
 # VisioBoard – A Smart Canvas for Ideas & Productivity
-
+<div align="center">
+  
 # 🎬 Watch This Video  
 
 Check out the demo of this project:  
 
 [![Watch the video](https://img.youtube.com/vi/rxuUEJkCXes/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)  
-
+![Next JS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 VisioBoard is an intuitive and modern canvas-based productivity application designed to help individuals and teams visualize their ideas, create flowcharts, and manage tasks seamlessly. With an easy-to-use drag-and-drop interface, it enables users to brainstorm, plan, and execute projects in an interactive way.
 
 Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a real-time collaborative environment, where users can create mind maps, sketch workflows, and design complex processes effortlessly. Whether you're a student, developer, or business professional, VisioBoard enhances your thinking process with a structured yet flexible digital workspace.
+</div>
 
 ## 🚀 Get Started  
 1. **Log in** with your Google account.  
 2. **Create a team** and start collaborating.  
 3. **Start a new file** – choose a document or a canvas.  
 4. **Unleash your creativity** with powerful visualization tools.
-🔗 **Try VisioBoard now:** 👉 [VisioBoard Live](https://visioboard.huzaifamushtaq.website/)  
+🔗 **Try VisioBoard now:** 👉 [![VisioBoard](https://img.shields.io/badge/Try%20VisioBoard-6A0DAD?style=flat&logo=visualstudiocode&logoColor=white)](https://visioboard.huzaifamushtaq.website/)
+
+
 
 📌 **VisioBoard – Where Ideas Take Shape!**  
 
