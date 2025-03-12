@@ -10,7 +10,11 @@ Built with Next.js, React, TypeScript, and Tailwind CSS, VisioBoard offers a rea
 1. **Log in** with your Google account.  
 2. **Create a team** and start collaborating.  
 3. **Start a new file** – choose a document or a canvas.  
-4. **Unleash your creativity** with powerful visualization tools.  
+4. **Unleash your creativity** with powerful visualization tools.
+#🎬Watch this video
+Check out the demo of this project:  
+[![Watch the video](https://img.youtube.com/vi/rxuUEJkCXes/maxresdefault.jpg)](https://www.youtube.com/watch?v=rxuUEJkCXes)  
+
 
 🔗 **Try VisioBoard now:** 👉 [VisioBoard Live](https://visioboard.huzaifamushtaq.website/)  
 
