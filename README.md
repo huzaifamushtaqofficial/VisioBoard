@@ -56,12 +56,32 @@ Follow these steps to set up the project locally:
 # Clone the repository
 git clone https://github.com/huzaifamushtaqofficial/VisioBoard.git
 cd VisioBoard
+```
+### Set Up Environment Variables
+
+Create an `.env.local` file and add the following variables:
+```bash
+KINDE_CLIENT_ID=
+KINDE_CLIENT_SECRET=
+KINDE_ISSUER_URL=
+KINDE_SITE_URL=http://localhost:3000
+KINDE_POST_LOGOUT_REDIRECT_URL=http://localhost:3000
+KINDE_POST_LOGIN_REDIRECT_URL=http://localhost:3000/dashboard
+
+
+CONVEX_DEPLOYMENT=
+NEXT_PUBLIC_CONVEX_URL=
+```
+
+
 
 # Install dependencies
-npm install  # or yarn install
-
+```bash
+npm install 
+```
 # Run the development server
-npm run dev  # or yarn dev
+```bash
+npm run dev 
 ```
 
 Now, open [http://localhost:3000](http://localhost:3000) in your browser to access VisioBoard.
